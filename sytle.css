@@ -1,0 +1,74 @@
+html
+{
+  background-color: lightcoral;
+
+}
+
+
+
+.outerdiv
+{
+    height: 100%;
+    width: 100%;
+}
+
+
+
+
+
+/* Sidebar styles */
+.line {
+    height: 1%;
+    width: 2%;
+    background-color: white;
+
+    margin-left: 2px;
+    
+    position: absolute;
+    cursor: pointer;
+
+    
+
+
+
+
+    /* Additional styles if needed */
+}
+
+#div1 {
+
+    margin-top: 1px;
+
+  }
+  
+  #div2 {
+    
+    margin-top: -9px;
+  }
+  
+  #div3 {
+
+    margin-top: -19px;
+
+  }
+
+  
+  .section
+  {
+    
+    display: none;
+  }
+
+  .menu-icon
+  {
+    height: 5%;
+    width: 2.3%;
+    cursor: pointer;
+  }
+
+
+  
+
+
+
+
